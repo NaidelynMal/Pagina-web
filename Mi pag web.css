@@ -1,0 +1,149 @@
+body{
+    background-color: white
+}
+
+body{
+    font-family: 'Bodoni Moda', serif;
+}
+
+.uno{
+    width:400px;
+    height:480px;
+}
+
+.dos{
+    width:200px;
+    height:300px;
+}
+
+.tres{
+    width:220px;
+    height:300px;
+}
+
+.falda{
+    width:400px;
+    height:480px;
+}
+
+.saco{
+    width:200px;
+    height:300px;
+}
+
+.blusa{
+    width:200px;
+    height:300px;
+}
+
+.gabardina{
+    width:400px;
+    height:480px;
+}
+
+.playera{
+    width:200px;
+    height:300px;
+}
+
+.pantalon{
+    width:200px;
+    height:300px;
+}
+
+.camisa{
+    width:400px;
+    height:480px;
+}
+
+.blanca{
+    width:200px;
+    height:300px;
+}
+
+.jeans{
+    width:200px;
+    height:300px;
+}
+
+.bag{
+    width: 1500px;
+    height:500px;
+}
+.sub{
+    display: flex;
+    justify-content: center;
+}
+
+.tit{
+    display: flex;
+    justify-content: center;
+}
+
+.main{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.text{
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.segun{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.lista{
+    font-family: 'Bodoni Moda', serif;
+}
+
+.chaleco, .falda, .gabardina, .camisa, .pantalon, .blazer, .itbag, .mocasines, .jeans, .lentes{
+    color:black
+}
+
+
+.chaleco, .falda, .gabardina, .camisa, .pantalon, .blazer, .itbag, .mocasines, .jeans, .lentes{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+ *{
+    margin: 0;
+    padding: 0;
+ }  
+
+ .contendio{
+    margin:3px
+ }
+
+ .caja{
+    display:table-cell;
+    padding:10px;
+ }
+
+ .caja:nth-child(1) h1{
+    background: #069;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-bottom: 15px;
+ }
+
+ .caja:nth-child(2) h1{
+    background: #059;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-bottom: 15px;
+}
+
+.caja:nth-child(1) p{
+    background-color: rgb(253, 253, 253);
+    color: rgb(0, 0, 0);
+}
+
+.caja:nth-child(1) p{
+    background-color: rgb(254, 255, 254);
+    color: black;
+}
+
+.caja{
+    text-align: justify;
+}
